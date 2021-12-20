@@ -49,10 +49,8 @@ namespace ticTac
 
             Use any and all pre-existing methods in this program to help construct the method logic. 
              */
-			PlayerOne.Name = "Player 1";
 			PlayerOne.Marker = "X";
 
-			PlayerTwo.Name = "Player 2";
 			PlayerTwo.Marker = "O";
 
             bool win = false;
