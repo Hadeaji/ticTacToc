@@ -23,7 +23,7 @@ namespace ticTac
                 Console.WriteLine($"{winner.Name} is the Winner as {winner.Marker}");
             } else
             {
-                Console.WriteLine("Draw!!");
+                Console.WriteLine("Draw!!!");
             }
             
         }
